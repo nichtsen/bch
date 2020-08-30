@@ -8,7 +8,8 @@ func init() {
 
 func main() {
     fmt.Println("main")
-    fmt.Println("master chang main function")
+    
+    fmt.Println("dev change main")
 }
 
 func foo() {
