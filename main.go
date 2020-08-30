@@ -13,4 +13,5 @@ func foo() {
 
 func bar() {
     fmt.Println("bar")
+    fmt.Println("dev chang bar function")
 }
