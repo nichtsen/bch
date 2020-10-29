@@ -10,6 +10,8 @@ func main() {
 	fmt.Println("main")
 	fmt.Println("master change main")
 
+	fmt.Println("master chage main again")
+
 }
 
 func foo() {
