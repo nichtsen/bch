@@ -8,6 +8,7 @@ func init() {
 
 func main() {
 	fmt.Println("main")
+	fmt.Println("master change main")
 
 }
 
