@@ -8,9 +8,14 @@ func init() {
 
 func main() {
 	fmt.Println("main")
+<<<<<<< HEAD
 	fmt.Pritnln("main branch change main func")
 
 	fmt.Println("dev change main")
+=======
+
+	fmt.Println("my branch change main")
+>>>>>>> my
 }
 
 func foo() {
