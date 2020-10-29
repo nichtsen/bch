@@ -9,6 +9,7 @@ func init() {
 func main() {
 	fmt.Println("main")
 	fmt.Println("master change main")
+	fmt.Println("test branch change main")
 
 }
 
