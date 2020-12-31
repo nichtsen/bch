@@ -27,5 +27,5 @@ func bar() {
 }
 
 func baz() {
-
+	fmt.Println("baz")
 }
