@@ -19,6 +19,7 @@ func main() {
 
 func foo() {
 	fmt.Println("foo")
+	fmt.Println("matser foo")
 }
 
 func bar() {
