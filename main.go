@@ -24,6 +24,7 @@ func foo() {
 
 func bar() {
 	fmt.Println("bar")
+	fmt.Println("lef foo")
 }
 
 func baz() {
