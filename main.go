@@ -32,3 +32,7 @@ func baz() {
 	fmt.Println("baz again")
 	fmt.Println("baz 3rd")
 }
+
+func bazlo() {
+
+}
