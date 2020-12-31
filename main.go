@@ -12,6 +12,7 @@ func main() {
 	fmt.Println("test branch change main")
 
 	fmt.Println("master chage main again")
+	fmt.Println("master foo")
 
 }
 
