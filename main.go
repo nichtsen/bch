@@ -24,5 +24,12 @@ func foo() {
 
 func bar() {
 	fmt.Println("bar")
+<<<<<<< HEAD
 	fmt.Println("lef foo")
+=======
+}
+
+func baz() {
+	fmt.Println("baz")
+>>>>>>> 893d4c5... baz
 }
