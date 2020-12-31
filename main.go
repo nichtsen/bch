@@ -29,4 +29,5 @@ func bar() {
 
 func baz() {
 	fmt.Println("baz")
+	fmt.Println("baz again")
 }
