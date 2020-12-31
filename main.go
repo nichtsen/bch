@@ -33,6 +33,6 @@ func baz() {
 	fmt.Println("baz 3rd")
 }
 
-func bazlo() {
+func lo() {
 
 }
