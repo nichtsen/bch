@@ -12,7 +12,11 @@ func main() {
 	fmt.Println("test branch change main")
 
 	fmt.Println("master chage main again")
+<<<<<<< HEAD
 	fmt.Println("lef foo")
+=======
+	fmt.Println("master foo")
+>>>>>>> 43cc43f... master wine
 
 }
 
