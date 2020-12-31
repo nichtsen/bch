@@ -31,6 +31,7 @@ func baz() {
 	fmt.Println("baz")
 	fmt.Println("baz again")
 	fmt.Println("baz 3rd")
+	fmt.Println("baz 4th")
 }
 
 func lo() {
