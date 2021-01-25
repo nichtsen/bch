@@ -36,5 +36,5 @@ func baz() {
 }
 
 func lo() {
-
+	fmt.Println("content we want to merge")
 }
