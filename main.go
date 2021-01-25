@@ -14,6 +14,7 @@ func main() {
 	fmt.Println("master chage main again")
 	fmt.Println("lef foo")
 	fmt.Println("master foo")
+	fmt.Println("lo feature C")
 
 }
 
