@@ -45,3 +45,7 @@ func lo() {
 func lofeatureA() {
 
 }
+
+func loFeatureB() {
+
+}
