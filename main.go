@@ -38,5 +38,6 @@ func baz() {
 
 func lo() {
 	fmt.Println("content we want to merge")
-	fmt.Println("master change lo")
+	fmt.Println("lo change lo")
+
 }
