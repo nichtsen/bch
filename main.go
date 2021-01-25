@@ -41,3 +41,7 @@ func lo() {
 	fmt.Println("lo change lo")
 
 }
+
+func lofeatureA() {
+
+}
