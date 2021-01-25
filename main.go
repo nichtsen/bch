@@ -15,6 +15,11 @@ func main() {
 	fmt.Println("master chage main again")
 	fmt.Println("lef foo")
 	fmt.Println("master foo")
+<<<<<<< HEAD
+=======
+	fmt.Println("lo feature C")
+
+>>>>>>> lo
 }
 
 func foo() {
@@ -39,5 +44,13 @@ func baz() {
 func lo() {
 	fmt.Println("content we want to merge")
 	fmt.Println("lo change lo")
+
+}
+
+func lofeatureA() {
+
+}
+
+func loFeatureB() {
 
 }
