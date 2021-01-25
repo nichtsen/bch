@@ -10,11 +10,11 @@ func main() {
 	fmt.Println("main")
 	fmt.Println("master change main")
 	fmt.Println("test branch change main")
+	fmt.Println("master add feature")
 
 	fmt.Println("master chage main again")
 	fmt.Println("lef foo")
 	fmt.Println("master foo")
-	fmt.Println("master add feature")
 }
 
 func foo() {
